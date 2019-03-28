@@ -1,6 +1,6 @@
 {
-  "realm": "testRealm",
-  "auth-server-url": "http://localhost:8180/auth",
+  "realm": "demo",
+  "auth-server-url": "https://sso-single-sign-on.lab.ocp.azure.rai.it/auth/",
   "ssl-required": "none",
   "resource": "keycloaktest",
   "public-client": true,
