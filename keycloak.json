@@ -1,5 +1,5 @@
 {
-  "realm": "demo",
+  "realm": "master",
   "auth-server-url": "https://sso-single-sign-on.lab.ocp.azure.rai.it/auth/",
   "ssl-required": "none",
   "resource": "keycloaktest",
