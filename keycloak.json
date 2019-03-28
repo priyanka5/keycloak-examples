@@ -4,5 +4,5 @@
   "ssl-required": "none",
   "resource": "keycloaktest",
   "public-client": true,
-  "use-resource-role-mappings": true
+  "use-resource-role-mappings": false
 }
